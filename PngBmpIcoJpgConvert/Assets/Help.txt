@@ -1,0 +1,3 @@
+Make sure that the ico files are in the ICOfiles folder,
+the bmp files are in the BMPfiles folder, the jpg files
+are in JPGfiles folder, the png files are in PNGfiles
